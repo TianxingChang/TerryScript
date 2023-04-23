@@ -1,2 +1,3 @@
 # TerryScript
-A interactive knowledge spreading tool
+| An interactive knowledge spreading tool |
+Written in python
